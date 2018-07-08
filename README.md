@@ -36,5 +36,5 @@ The following applies to everything else:
 
 
 This section serves as the NOTICE under Section 4 d of the Apache License,
-Version 2.0.  The full text of each license is below.
+Version 2.0.
 ````
